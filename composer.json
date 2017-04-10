@@ -1,5 +1,5 @@
 {
-    "name": "spring/hello-world",
+    "name": "spring299792/hello-world",
     "require": {
             "monolog/monolog": "1.2.*"
 	    }
